@@ -1,2 +1,3 @@
-# govhack2020
-GovHack2020 Entry
+# MyQueensland Assitant
+
+A vistual assitant helping Queenslander explore queensland.
